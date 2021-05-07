@@ -32,7 +32,7 @@ How can you use the library?
 
  - The detailed example is given in the example folder!
  - You can also use creatingDataset code to produce your own dataset!
- - 
+ 
 For more detailed information about us,
 
   http://www.phinitelab.com/
